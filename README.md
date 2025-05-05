@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi there 👋
 
 <!--
 **m3owbisi/m3owbisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
