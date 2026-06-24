@@ -1,0 +1,98 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fffaf0"/>
+      <stop offset="50%" stop-color="#fff5f6"/>
+      <stop offset="100%" stop-color="#fffaf0"/>
+    </linearGradient>
+
+    <filter id="grain" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" result="noise" seed="7"/>
+      <feColorMatrix in="noise" type="matrix"
+        values="0 0 0 0 0
+                0 0 0 0 0
+                0 0 0 0 0
+                0 0 0 0.025 0"/>
+    </filter>
+
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+
+    <radialGradient id="pinkBlob" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffb7c5" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#ffb7c5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="lavBlob" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e6e6fa" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#e6e6fa" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="matchaBlob" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#d0f0c0" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#d0f0c0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="skyBlob" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#87ceeb" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#87ceeb" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- base -->
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+
+  <!-- soft floating blobs (glassmorphism) -->
+  <circle cx="140" cy="60" r="160" fill="url(#pinkBlob)" filter="url(#softBlur)"/>
+  <circle cx="1080" cy="240" r="180" fill="url(#lavBlob)" filter="url(#softBlur)"/>
+  <circle cx="950" cy="40" r="120" fill="url(#skyBlob)" filter="url(#softBlur)"/>
+  <circle cx="260" cy="260" r="130" fill="url(#matchaBlob)" filter="url(#softBlur)"/>
+  <circle cx="600" cy="150" r="220" fill="url(#pinkBlob)" filter="url(#softBlur)" opacity="0.5"/>
+
+  <!-- grain overlay -->
+  <rect width="1200" height="300" filter="url(#grain)" opacity="0.15"/>
+
+  <!-- decorative stickers, drawn as shapes so they render consistently everywhere -->
+  <g opacity="0.85" fill="#ffb7c5">
+    <!-- sparkle, top-left -->
+    <path d="M70 230 L75 245 L90 250 L75 255 L70 270 L65 255 L50 250 L65 245 Z"/>
+  </g>
+  <g opacity="0.8" fill="#87ceeb">
+    <!-- sparkle, top-right -->
+    <path d="M1120 55 L1124 67 L1136 71 L1124 75 L1120 87 L1116 75 L1104 71 L1116 67 Z"/>
+  </g>
+  <g opacity="0.75" fill="#ffffff" stroke="#cdeafb" stroke-width="1.5">
+    <!-- cloud, right -->
+    <ellipse cx="985" cy="225" rx="26" ry="14"/>
+    <ellipse cx="1005" cy="218" rx="20" ry="16"/>
+    <ellipse cx="965" cy="220" rx="18" ry="13"/>
+  </g>
+  <g opacity="0.7" fill="#d0f0c0">
+    <!-- little bow, left -->
+    <path d="M150 125 C150 115 162 115 162 125 C162 115 174 115 174 125 C174 132 162 132 162 132 C162 132 150 132 150 125 Z"/>
+    <rect x="160" y="123" width="4" height="6" fill="#a3d18c"/>
+  </g>
+
+  <!-- top accent: drawn heart instead of kaomoji glyphs, which don't render reliably in all SVG viewers -->
+  <path d="M600 95 C600 85 588 78 580 85 C572 92 572 100 600 115 C628 100 628 92 620 85 C612 78 600 85 600 95 Z"
+        fill="#ffb7c5" opacity="0.6"/>
+
+  <!-- name -->
+  <text x="600" y="170" text-anchor="middle"
+        font-family="Trebuchet MS, Verdana, sans-serif"
+        font-weight="bold" font-size="56" fill="#5a4a52" letter-spacing="1">
+    hiral panchal
+  </text>
+
+  <!-- tagline -->
+  <text x="600" y="215" text-anchor="middle"
+        font-family="Trebuchet MS, Verdana, sans-serif"
+        font-size="22" fill="#8a7480" letter-spacing="0.5">
+    full-stack engineer · saas &amp; ai integration · soft space edition
+  </text>
+
+  <!-- location -->
+  <text x="600" y="250" text-anchor="middle"
+        font-family="Trebuchet MS, Verdana, sans-serif"
+        font-size="20" fill="#a3b899" letter-spacing="0.5">
+    thane, india
+  </text>
+</svg>
