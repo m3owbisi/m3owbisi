@@ -26,11 +26,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-open%20to%20relocation-d0f0c0?style=flat-square&labelColor=fffaf0" alt="relocation"/>
   <img src="https://komarev.com/ghpvc/?username=m3owbisi&style=flat-square&color=87ceeb&label=visitors" alt="visitor count"/>
 </p><br/>
+
+### ‎ ⋆｟ about me ｠⋆
 <p align="left">
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="70" alt="cute anime sparkle"/>
 </p>
-
-### ‎ ⋆｟ about me ｠⋆
 - 🔭 building my personal portfolio — full-screen webp hero, scrollytelling, 11 sections
 - 🌱 deepening data engineering, devops &amp; cloud infra
 - 💌 actively looking for full-stack, data engineering, or devops/cloud roles
