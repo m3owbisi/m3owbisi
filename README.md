@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 - ♡ this readme's aesthetic is named after that side project's mood board — soft space<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&pause=1000&color=FFB7C5&center=true&vCenter=true&width=435&lines=a+little+about+me;beyond+the+code;off+the+clock;when+im+not+coding" alt="Typing SVG" />
-
 - 🎧 curating playlists across genres &amp; languages — music's a constant
 - 💄 into makeup, henna, hairstyles &amp; recreating lookbook fits for fun
 - 📖 reading books/poems &amp; quotes on femininity, collecting life lessons from them
@@ -43,8 +42,7 @@ Here are some ideas to get you started:
 - 🎨 used to sketch anime/kpop fanart, dabbled in photography
 - 🎬 edits &amp; trends on ig, used to act/dance a little
 - 🎮 gaming + streaming on the side, also love a good k-drama/anime binge
-- 🌸 picked up bits of korean, japanese &amp; chinese — language curiosity runs deep
-<br/>
+- 🌸 picked up bits of korean, japanese &amp; chinese — language curiosity runs deep<br/>
 
 ### ‎ ⋆｟ connect with me ｠⋆
 <p align="left">
@@ -60,8 +58,8 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/m3owbisi">
     <img src="https://img.shields.io/badge/instagram-87ceeb?style=flat-square&logo=instagram&logoColor=5a4a52&labelColor=fffaf0" alt="instagram"/>
   </a>
-</p>
-<br/>
+</p><br/>
+
 ### ‎ ⋆｟ tech stack ｠⋆
 **core**
 <p align="left">
@@ -72,6 +70,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-node.js-ffb7c5?style=flat-square&logo=node.js&logoColor=5a4a52&labelColor=fffaf0" alt="node.js"/>
   <img src="https://img.shields.io/badge/-express-e6e6fa?style=flat-square&logo=express&logoColor=5a4a52&labelColor=fffaf0" alt="express"/>
 </p>
+
 **data &amp; analytics**
 <p align="left">
   <img src="https://img.shields.io/badge/-python-87ceeb?style=flat-square&logo=python&logoColor=5a4a52&labelColor=fffaf0" alt="python"/>
@@ -80,6 +79,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-pandas-e6e6fa?style=flat-square&logo=pandas&logoColor=5a4a52&labelColor=fffaf0" alt="pandas"/>
   <img src="https://img.shields.io/badge/-power%20bi-87ceeb?style=flat-square&logo=powerbi&logoColor=5a4a52&labelColor=fffaf0" alt="power bi"/>
 </p>
+
 **devops &amp; infra**
 <p align="left">
   <img src="https://img.shields.io/badge/-docker-d0f0c0?style=flat-square&logo=docker&logoColor=5a4a52&labelColor=fffaf0" alt="docker"/>
@@ -87,21 +87,21 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-aws-e6e6fa?style=flat-square&logo=amazonaws&logoColor=5a4a52&labelColor=fffaf0" alt="aws"/>
   <img src="https://img.shields.io/badge/-linux-87ceeb?style=flat-square&logo=linux&logoColor=5a4a52&labelColor=fffaf0" alt="linux"/>
   <img src="https://img.shields.io/badge/-vercel-d0f0c0?style=flat-square&logo=vercel&logoColor=5a4a52&labelColor=fffaf0" alt="vercel"/>
-</p>
-<br/>
+</p><br/>
+
 ### ‎ ⋆｟ currently shipping ｠⋆
 | project | what it is |
 |---|---|
 | [protein bind](https://protein-bind-v7.vercel.app) | real-time collaborative research platform · next.js, typescript, ably |
 | [cybershield](https://youtu.be/356-4RFTUBk) | 4-agent ai cybersecurity platform · best cyber security project award |
-| ci/cd pipeline | jenkins + docker automated build-to-deploy pipeline |
-<br/>
+| ci/cd pipeline | jenkins + docker automated build-to-deploy pipeline |<br/>
+
 ### ‎ ⋆｟ github stats ｠⋆
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=m3owbisi&show_icons=true&hide_border=true&hide_title=true&bg_color=fffaf0&title_color=5a4a52&text_color=8a7480&icon_color=ffb7c5"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3owbisi&layout=compact&hide_border=true&hide_title=true&bg_color=fffaf0&title_color=5a4a52&text_color=8a7480&langs_count=6"/>
-</p>
-<br/>
+</p><br/>
+
 <p align="center">
   thanks for stopping by ♡
 </p>
