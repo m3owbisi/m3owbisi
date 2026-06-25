@@ -1,4 +1,4 @@
-## hi there 👋
+## hi there 👋🏻
 
 <!--
 **m3owbisi/m3owbisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,29 +17,21 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="./assets/soft-space-banner-kawaii-final.svg" width="100%" alt="hiral panchal — soft space banner" />
 </div>
-
 <h3 align="center">hello, world'!? ˚ʚ♡ɞ˚</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/-currently%20job%20hunting-ffb7c5?style=flat-square&labelColor=fffaf0" alt="status"/>
   <img src="https://img.shields.io/badge/-b.sc.%20it%20%2723%20%E2%80%93%20%2726-e6e6fa?style=flat-square&labelColor=fffaf0" alt="education"/>
   <img src="https://img.shields.io/badge/-open%20to%20relocation-d0f0c0?style=flat-square&labelColor=fffaf0" alt="relocation"/>
 </p>
-
 <br/>
-
 ### ‎ ⋆｟ about me ｠⋆
-
 - 🔭 building my personal portfolio — full-screen webp hero, scrollytelling, 11 sections
 - 🌱 deepening data engineering, devops &amp; cloud infra
 - 💌 actively looking for full-stack, data engineering, or devops/cloud roles
 - ☁️ side project: **glorie**, a small affiliate content brand across pinterest &amp; instagram
 - ♡ this readme's aesthetic is named after that side project's mood board — soft space
-
 <br/>
-
 ### ‎ ⋆｟ connect with me ｠⋆
-
 <p align="left">
   <a href="https://linkedin.com/in/hiral-panchal-b89071294">
     <img src="https://img.shields.io/badge/linkedin-e6e6fa?style=flat-square&logo=linkedin&logoColor=5a4a52&labelColor=fffaf0" alt="linkedin"/>
@@ -54,13 +46,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/instagram-87ceeb?style=flat-square&logo=instagram&logoColor=5a4a52&labelColor=fffaf0" alt="instagram"/>
   </a>
 </p>
-
 <br/>
-
 ### ‎ ⋆｟ tech stack ｠⋆
-
 **core**
-
 <p align="left">
   <img src="https://img.shields.io/badge/-javascript-ffb7c5?style=flat-square&logo=javascript&logoColor=5a4a52&labelColor=fffaf0" alt="javascript"/>
   <img src="https://img.shields.io/badge/-typescript-e6e6fa?style=flat-square&logo=typescript&logoColor=5a4a52&labelColor=fffaf0" alt="typescript"/>
@@ -69,9 +57,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-node.js-ffb7c5?style=flat-square&logo=node.js&logoColor=5a4a52&labelColor=fffaf0" alt="node.js"/>
   <img src="https://img.shields.io/badge/-express-e6e6fa?style=flat-square&logo=express&logoColor=5a4a52&labelColor=fffaf0" alt="express"/>
 </p>
-
 **data &amp; analytics**
-
 <p align="left">
   <img src="https://img.shields.io/badge/-python-87ceeb?style=flat-square&logo=python&logoColor=5a4a52&labelColor=fffaf0" alt="python"/>
   <img src="https://img.shields.io/badge/-postgresql-d0f0c0?style=flat-square&logo=postgresql&logoColor=5a4a52&labelColor=fffaf0" alt="postgresql"/>
@@ -79,9 +65,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-pandas-e6e6fa?style=flat-square&logo=pandas&logoColor=5a4a52&labelColor=fffaf0" alt="pandas"/>
   <img src="https://img.shields.io/badge/-power%20bi-87ceeb?style=flat-square&logo=powerbi&logoColor=5a4a52&labelColor=fffaf0" alt="power bi"/>
 </p>
-
 **devops &amp; infra**
-
 <p align="left">
   <img src="https://img.shields.io/badge/-docker-d0f0c0?style=flat-square&logo=docker&logoColor=5a4a52&labelColor=fffaf0" alt="docker"/>
   <img src="https://img.shields.io/badge/-jenkins-ffb7c5?style=flat-square&logo=jenkins&logoColor=5a4a52&labelColor=fffaf0" alt="jenkins"/>
@@ -89,28 +73,20 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-linux-87ceeb?style=flat-square&logo=linux&logoColor=5a4a52&labelColor=fffaf0" alt="linux"/>
   <img src="https://img.shields.io/badge/-vercel-d0f0c0?style=flat-square&logo=vercel&logoColor=5a4a52&labelColor=fffaf0" alt="vercel"/>
 </p>
-
 <br/>
-
 ### ‎ ⋆｟ currently shipping ｠⋆
-
 | project | what it is |
 |---|---|
 | [protein bind](https://protein-bind-v7.vercel.app) | real-time collaborative research platform · next.js, typescript, ably |
 | [cybershield](https://youtu.be/356-4RFTUBk) | 4-agent ai cybersecurity platform · best cyber security project award |
 | ci/cd pipeline | jenkins + docker automated build-to-deploy pipeline |
-
 <br/>
-
 ### ‎ ⋆｟ github stats ｠⋆
-
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=m3owbisi&show_icons=true&hide_border=true&hide_title=true&bg_color=fffaf0&title_color=5a4a52&text_color=8a7480&icon_color=ffb7c5"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3owbisi&layout=compact&hide_border=true&hide_title=true&bg_color=fffaf0&title_color=5a4a52&text_color=8a7480&langs_count=6"/>
 </p>
-
 <br/>
-
 <p align="center">
   thanks for stopping by ♡
 </p>
