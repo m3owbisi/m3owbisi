@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="./assets/soft-space-banner.svg" width="100%" alt="hiral panchal — soft space banner" />
+  <img src="./assets/soft-space-banner-kawaii.svg" width="100%" alt="hiral panchal — soft space banner" />
 </div>
 
 <h3 align="center">hello, world'!? ˚ʚ♡ɞ˚</h3>
