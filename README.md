@@ -31,6 +31,27 @@ Here are some ideas to get you started:
 - ☁️ side project: **glorie**, a small affiliate content brand across pinterest &amp; instagram
 - ♡ this readme's aesthetic is named after that side project's mood board — soft space
 <br/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&pause=1000&color=FFB7C5&center=true&vCenter=true&width=435&lines=a+little+about+me+%E2%9C%A8;beyond+the+code+%F0%9F%8C%B8;off+the+clock+%E2%9C%A8;when+im+not+coding" alt="Typing SVG" />
+- 🎧 curating playlists across genres &amp; languages — music's a constant
+- 💄 into makeup, henna, hairstyles &amp; recreating lookbook fits for fun
+- 📖 reading books/poems &amp; quotes on femininity, collecting life lessons from them
+- 🏋🏻‍♀️ keep fitness simple — home workouts, no-equipment cardio
+- ✈️ slowly working through a long travel checklist
+- 🎨 used to sketch anime/kpop fanart, dabbled in photography
+- 🎬 edits &amp; trends on ig, used to act/dance a little
+- 🎮 gaming + streaming on the side, also love a good k-drama/anime binge
+- 🌸 picked up bits of korean, japanese &amp; chinese — language curiosity runs deep
+<br/>
+### ‎ ⋆｟ beyond the code ｠⋆
+- 🎧 making playlists across random genres &amp; chasing a never-ending bucket list
+- 💄 beauty, makeup, hair &amp; mehendi experiments + outfit lookbook recreations
+- 📚 reading articles, poems &amp; novels on femininity for the life lessons &amp; perspective
+- ✈️ slowly checking off my travel list
+- 🏋🏻‍♀️ home workouts &amp; no-equipment cardio whenever the mood strikes
+- 🎬 jp/kr/cn dramas, anime &amp; manga — used to sketch fanart, still very much a fan
+- 🎮 gaming — streaming it &amp; playing it, equally into both
+- 🗣️ dabbling in korean, japanese &amp; chinese on the side
+<br/>
 ### ‎ ⋆｟ connect with me ｠⋆
 <p align="left">
   <a href="https://linkedin.com/in/hiral-panchal-b89071294">
