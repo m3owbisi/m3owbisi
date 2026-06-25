@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="70" alt="cute anime sparkle"/>
 </p>
+
 - 🔭 building my personal portfolio — full-screen webp hero, scrollytelling, 11 sections
 - 🌱 deepening data engineering, devops &amp; cloud infra
 - 💌 actively looking for full-stack, data engineering, or devops/cloud roles
