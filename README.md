@@ -18,8 +18,7 @@ Here are some ideas to get you started:
   <img src="./assets/soft-space-banner.svg" width="100%" alt="hiral panchal — soft space banner" />
 </div>
 
-<h3 align="center">hi, i'm hiral ˚ʚ♡ɞ˚</h3>
-<p align="center">full-stack engineer · saas &amp; ai integration · thane, india</p>
+<h3 align="center">hello, world'!? ˚ʚ♡ɞ˚</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-currently%20job%20hunting-ffb7c5?style=flat-square&labelColor=fffaf0" alt="status"/>
