@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 - 🎨 used to sketch anime/kpop fanart, dabbled in photography
 - 🎬 edits &amp; trends on ig, used to act/dance a little
 - 🎮 gaming + streaming on the side, also love a good k-drama/anime binge
-- 🌸 picked up bits of korean, japanese &amp; chinese — language curiosity runs deep<br/>
+- 🌸 picked up bits of korean, japanese &amp; chinese — language curiosity runs deep
+
+<br/>
 
 ### ‎ ⋆｟ connect with me ｠⋆
 <p align="left">
