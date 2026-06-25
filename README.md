@@ -105,18 +105,18 @@ Here are some ideas to get you started:
 | ci/cd pipeline | jenkins + docker automated build-to-deploy pipeline |<br/>
 
 ### ‎ ⋆｟ github stats ｠⋆
-<p align="center">
+<p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=m3owbisi&show_icons=true&hide_border=true&hide_title=true&bg_color=fffaf0&title_color=5a4a52&text_color=8a7480&icon_color=ffb7c5"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3owbisi&layout=compact&hide_border=true&hide_title=true&bg_color=fffaf0&title_color=5a4a52&text_color=8a7480&langs_count=6"/>
 </p><br/>
 
 ### ‎ ⋆｟ quote of the day ｠⋆
-<p align="center">
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote of the day" width="600"/>
 </p><br/>
 
 ### ‎ ⋆｟ now playing ｠⋆
-<p align="center">
+<p align="left">
   <img src="https://novatorem-mu.vercel.app/api/spotify" alt="spotify now playing" width="400"/>
 </p><br/>
 
