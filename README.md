@@ -110,9 +110,15 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3owbisi&layout=compact&hide_border=true&hide_title=true&bg_color=fffaf0&title_color=5a4a52&text_color=8a7480&langs_count=6"/>
 </p><br/>
 
+### ‎ ⋆｟ quote of the day ｠⋆
 <p align="center">
-  <img src="https://media.giphy.com/media/QSp0r9YzaWaY8L4LRZ/giphy.gif" width="80" alt="cute anime bye"/>
-</p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote of the day" width="600"/>
+</p><br/>
+
+### ‎ ⋆｟ now playing ｠⋆
+<p align="center">
+  <img src="https://novatorem-mu.vercel.app/api/spotify" alt="spotify now playing" width="400"/>
+</p><br/>
 
 <p align="center">
   thanks for stopping by ♡
