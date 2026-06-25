@@ -2,8 +2,18 @@
 
 <!--
 **m3owbisi/m3owbisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <div align="center">
   <img src="./assets/soft-space-banner-kawaii-final.svg" width="100%" alt="hiral panchal — soft space banner" />
 </div>
@@ -11,14 +21,9 @@
 <h3 align="center">hello, world'!? ˚ʚ♡ɞ˚</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IcVMnyfBJjP6JtPiSp/giphy.gif" width="90" alt="cute wave"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/-currently%20job%20hunting-ffb7c5?style=flat-square&labelColor=fffaf0" alt="status"/>
   <img src="https://img.shields.io/badge/-b.sc.%20it%20%2723%20%E2%80%93%20%2726-e6e6fa?style=flat-square&labelColor=fffaf0" alt="education"/>
   <img src="https://img.shields.io/badge/-open%20to%20relocation-d0f0c0?style=flat-square&labelColor=fffaf0" alt="relocation"/>
-  <img src="https://komarev.com/ghpvc/?username=m3owbisi&style=flat-square&color=87ceeb&label=visitors" alt="visitor count"/>
 </p><br/>
 
 ### ‎ ⋆｟ about me ｠⋆
@@ -29,10 +34,6 @@
 - ♡ this readme's aesthetic is named after that side project's mood board — soft space<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&pause=1000&color=FFB7C5&center=true&vCenter=true&width=435&lines=a+little+about+me;beyond+the+code;off+the+clock;when+im+not+coding" alt="Typing SVG" />
-
-<p align="right">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="70" alt="cute anime sparkle"/>
-</p>
 
 - 🎧 curating playlists across genres &amp; languages — music's a constant
 - 💄 into makeup, henna, hairstyles &amp; recreating lookbook fits for fun
@@ -45,22 +46,6 @@
 - 🌸 picked up bits of korean, japanese &amp; chinese — language curiosity runs deep
 
 <br/>
-
-### ‎ ⋆｟ quote of the day ｠⋆
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote of the day" width="600"/>
-</p>
-<p align="center">
-  <sub>refreshes daily · soft-space theme override pending — see notes below</sub>
-</p><br/>
-
-### ‎ ⋆｟ now playing ｠⋆
-<p align="center">
-  <img src="https://novatorem-mu.vercel.app/api/spotify" alt="spotify now playing" width="400"/>
-</p>
-<p align="center">
-  <sub>live from spotify · setup notes below</sub>
-</p><br/>
 
 ### ‎ ⋆｟ connect with me ｠⋆
 <p align="left">
@@ -120,9 +105,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3owbisi&layout=compact&hide_border=true&hide_title=true&bg_color=fffaf0&title_color=5a4a52&text_color=8a7480&langs_count=6"/>
 </p><br/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QSp0r9YzaWaY8L4LRZ/giphy.gif" width="80" alt="cute anime bye"/>
-</p>
 <p align="center">
   thanks for stopping by ♡
 </p>
