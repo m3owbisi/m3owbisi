@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - ♡ this readme's aesthetic is named after that side project's mood board — soft space<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&pause=1000&color=FFB7C5&center=true&vCenter=true&width=435&lines=a+little+about+me;beyond+the+code;off+the+clock;when+im+not+coding" alt="Typing SVG" />
+
 - 🎧 curating playlists across genres &amp; languages — music's a constant
 - 💄 into makeup, henna, hairstyles &amp; recreating lookbook fits for fun
 - 📖 reading books/poems &amp; quotes on femininity, collecting life lessons from them
