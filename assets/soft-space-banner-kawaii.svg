@@ -1,0 +1,214 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=VT323&amp;display=swap');
+    </style>
+
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fffaf0"/>
+      <stop offset="50%" stop-color="#fff5f6"/>
+      <stop offset="100%" stop-color="#fffaf0"/>
+    </linearGradient>
+
+    <filter id="grain" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" result="noise" seed="7"/>
+      <feColorMatrix in="noise" type="matrix"
+        values="0 0 0 0 0
+                0 0 0 0 0
+                0 0 0 0 0
+                0 0 0 0.025 0"/>
+    </filter>
+
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+
+    <radialGradient id="pinkBlob" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffb7c5" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#ffb7c5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="lavBlob" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e6e6fa" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#e6e6fa" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="matchaBlob" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#d0f0c0" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#d0f0c0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="skyBlob" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#87ceeb" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#87ceeb" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Nyan cat rainbow trail gradient -->
+    <linearGradient id="rainbowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0000" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#ff0000"/>
+      <stop offset="35%" stop-color="#ff7700"/>
+      <stop offset="50%" stop-color="#ffff00"/>
+      <stop offset="65%" stop-color="#00cc00"/>
+      <stop offset="80%" stop-color="#0000ff"/>
+      <stop offset="92%" stop-color="#8800ff"/>
+      <stop offset="100%" stop-color="#8800ff" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- base -->
+  <rect width="1200" height="340" fill="url(#bgGrad)"/>
+
+  <!-- soft floating blobs -->
+  <circle cx="140" cy="60" r="160" fill="url(#pinkBlob)" filter="url(#softBlur)"/>
+  <circle cx="1080" cy="240" r="180" fill="url(#lavBlob)" filter="url(#softBlur)"/>
+  <circle cx="950" cy="40" r="120" fill="url(#skyBlob)" filter="url(#softBlur)"/>
+  <circle cx="260" cy="260" r="130" fill="url(#matchaBlob)" filter="url(#softBlur)"/>
+  <circle cx="600" cy="150" r="220" fill="url(#pinkBlob)" filter="url(#softBlur)" opacity="0.5"/>
+
+  <!-- grain overlay -->
+  <rect width="1200" height="340" filter="url(#grain)" opacity="0.15"/>
+
+  <!-- decorative stickers -->
+  <g opacity="0.85" fill="#ffb7c5">
+    <path d="M70 230 L75 245 L90 250 L75 255 L70 270 L65 255 L50 250 L65 245 Z"/>
+  </g>
+  <g opacity="0.8" fill="#87ceeb">
+    <path d="M1120 55 L1124 67 L1136 71 L1124 75 L1120 87 L1116 75 L1104 71 L1116 67 Z"/>
+  </g>
+  <g opacity="0.75" fill="#ffffff" stroke="#cdeafb" stroke-width="1.5">
+    <ellipse cx="985" cy="225" rx="26" ry="14"/>
+    <ellipse cx="1005" cy="218" rx="20" ry="16"/>
+    <ellipse cx="965" cy="220" rx="18" ry="13"/>
+  </g>
+  <g opacity="0.7" fill="#d0f0c0">
+    <path d="M150 125 C150 115 162 115 162 125 C162 115 174 115 174 125 C174 132 162 132 162 132 C162 132 150 132 150 125 Z"/>
+    <rect x="160" y="123" width="4" height="6" fill="#a3d18c"/>
+  </g>
+
+  <!-- kawaii star sparkles (pixel-ish) -->
+  <g fill="#ffb7c5" opacity="0.9">
+    <rect x="112" y="48" width="3" height="3"/>
+    <rect x="109" y="51" width="9" height="3"/>
+    <rect x="112" y="54" width="3" height="3"/>
+  </g>
+  <g fill="#c9b3e8" opacity="0.9">
+    <rect x="1070" y="150" width="3" height="3"/>
+    <rect x="1067" y="153" width="9" height="3"/>
+    <rect x="1070" y="156" width="3" height="3"/>
+  </g>
+  <g fill="#87ceeb" opacity="0.8">
+    <rect x="200" y="80" width="2" height="2"/>
+    <rect x="198" y="82" width="6" height="2"/>
+    <rect x="200" y="84" width="2" height="2"/>
+  </g>
+  <g fill="#a3d18c" opacity="0.8">
+    <rect x="970" y="100" width="2" height="2"/>
+    <rect x="968" y="102" width="6" height="2"/>
+    <rect x="970" y="104" width="2" height="2"/>
+  </g>
+
+  <!-- kawaii dotted border -->
+  <rect x="6" y="6" width="1188" height="328" rx="12" ry="12"
+        fill="none" stroke="#ffb7c5" stroke-width="2"
+        stroke-dasharray="6,8" opacity="0.5"/>
+
+  <!-- pixel heart top -->
+  <g fill="#ff9aaf" opacity="0.8">
+    <rect x="585" y="78" width="6" height="6"/>
+    <rect x="591" y="78" width="6" height="6"/>
+    <rect x="579" y="84" width="24" height="6"/>
+    <rect x="582" y="90" width="18" height="6"/>
+    <rect x="585" y="96" width="12" height="6"/>
+    <rect x="588" y="102" width="6" height="6"/>
+  </g>
+
+  <!-- name — VT323 pixel font -->
+  <text x="600" y="170" text-anchor="middle"
+        font-family="'VT323', 'Courier New', monospace"
+        font-size="64" fill="#5a4a52" letter-spacing="2">
+    hiral panchal
+  </text>
+
+  <!-- tagline with appended roles — VT323 -->
+  <text x="600" y="214" text-anchor="middle"
+        font-family="'VT323', 'Courier New', monospace"
+        font-size="24" fill="#8a7480" letter-spacing="0.8">
+    full-stack engineer · saas &amp; ai integration · soft space edition
+  </text>
+  <text x="600" y="238" text-anchor="middle"
+        font-family="'VT323', 'Courier New', monospace"
+        font-size="24" fill="#8a7480" letter-spacing="0.8">
+    data analyst · business intelligence
+  </text>
+
+  <!-- location — darkened for visibility — VT323 -->
+  <text x="600" y="268" text-anchor="middle"
+        font-family="'VT323', 'Courier New', monospace"
+        font-size="22" fill="#5a7850" letter-spacing="0.5">
+    ✿ thane, india ✿
+  </text>
+
+  <!-- ═══════════════ NYAN CAT ═══════════════ -->
+  <!-- rainbow trail -->
+  <rect x="30" y="298" width="200" height="5" fill="#ff0000" opacity="0.85" rx="2"/>
+  <rect x="30" y="304" width="200" height="5" fill="#ff7700" opacity="0.85" rx="2"/>
+  <rect x="30" y="310" width="200" height="5" fill="#ffff00" opacity="0.85" rx="2"/>
+  <rect x="30" y="316" width="200" height="5" fill="#00cc00" opacity="0.85" rx="2"/>
+  <rect x="30" y="322" width="200" height="5" fill="#0000ff" opacity="0.85" rx="2"/>
+  <rect x="30" y="328" width="200" height="5" fill="#8800ff" opacity="0.85" rx="2"/>
+
+  <!-- cat body (pop-tart) -->
+  <rect x="218" y="292" width="60" height="44" rx="8" fill="#e8c4d4" stroke="#c9a0bb" stroke-width="2"/>
+  <!-- pop-tart frosting sprinkles -->
+  <rect x="226" y="298" width="5" height="5" fill="#ff9aaf" rx="1"/>
+  <rect x="238" y="304" width="5" height="5" fill="#87ceeb" rx="1"/>
+  <rect x="252" y="298" width="5" height="5" fill="#a3d18c" rx="1"/>
+  <rect x="230" y="312" width="5" height="5" fill="#ffcc00" rx="1"/>
+  <rect x="246" y="310" width="5" height="5" fill="#ff9aaf" rx="1"/>
+  <rect x="260" y="304" width="5" height="5" fill="#c9b3e8" rx="1"/>
+  <!-- cat legs -->
+  <rect x="224" y="330" width="8" height="10" rx="3" fill="#c9a0bb"/>
+  <rect x="238" y="330" width="8" height="10" rx="3" fill="#c9a0bb"/>
+  <rect x="252" y="330" width="8" height="10" rx="3" fill="#c9a0bb"/>
+  <rect x="266" y="330" width="8" height="10" rx="3" fill="#c9a0bb"/>
+  <!-- cat tail -->
+  <path d="M278 308 Q295 298 292 285 Q289 274 280 278" fill="none" stroke="#c9a0bb" stroke-width="5" stroke-linecap="round"/>
+  <!-- cat head -->
+  <rect x="272" y="287" width="36" height="32" rx="10" fill="#d4b8cc" stroke="#c9a0bb" stroke-width="2"/>
+  <!-- ears -->
+  <polygon points="276,287 280,272 288,287" fill="#d4b8cc" stroke="#c9a0bb" stroke-width="1.5"/>
+  <polygon points="296,287 300,272 308,287" fill="#d4b8cc" stroke="#c9a0bb" stroke-width="1.5"/>
+  <!-- inner ears -->
+  <polygon points="278,285 281,275 287,285" fill="#ffb7c5"/>
+  <polygon points="298,285 301,275 307,285" fill="#ffb7c5"/>
+  <!-- eyes (> < kawaii) -->
+  <text x="280" y="307" font-family="monospace" font-size="11" fill="#5a4a52">&gt; &lt;</text>
+  <!-- mouth -->
+  <path d="M283 313 Q290 317 297 313" fill="none" stroke="#5a4a52" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- whiskers -->
+  <line x1="274" y1="308" x2="260" y2="305" stroke="#8a7480" stroke-width="1" opacity="0.7"/>
+  <line x1="274" y1="312" x2="260" y2="312" stroke="#8a7480" stroke-width="1" opacity="0.7"/>
+  <line x1="308" y1="308" x2="322" y2="305" stroke="#8a7480" stroke-width="1" opacity="0.7"/>
+  <line x1="308" y1="312" x2="322" y2="312" stroke="#8a7480" stroke-width="1" opacity="0.7"/>
+  <!-- pixel stars around nyan cat -->
+  <g fill="#ffcc00" opacity="0.9">
+    <rect x="340" y="290" width="4" height="4"/>
+    <rect x="338" y="294" width="8" height="4"/>
+    <rect x="340" y="298" width="4" height="4"/>
+  </g>
+  <g fill="#ffb7c5" opacity="0.9">
+    <rect x="360" y="308" width="3" height="3"/>
+    <rect x="358" y="311" width="7" height="3"/>
+    <rect x="360" y="314" width="3" height="3"/>
+  </g>
+  <g fill="#c9b3e8" opacity="0.8">
+    <rect x="348" y="323" width="3" height="3"/>
+    <rect x="346" y="326" width="7" height="3"/>
+    <rect x="348" y="329" width="3" height="3"/>
+  </g>
+
+  <!-- cute label -->
+  <text x="600" y="335" text-anchor="middle"
+        font-family="'VT323', 'Courier New', monospace"
+        font-size="16" fill="#c9a0bb" letter-spacing="3" opacity="0.7">
+    (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  kawaii mode: ON  ✧ﾟ･: *ヽ(◕ヮ◕ヽ)
+  </text>
+</svg>
