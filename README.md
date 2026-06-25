@@ -24,11 +24,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-currently%20job%20hunting-ffb7c5?style=flat-square&labelColor=fffaf0" alt="status"/>
   <img src="https://img.shields.io/badge/-b.sc.%20it%20%2723%20%E2%80%93%20%2726-e6e6fa?style=flat-square&labelColor=fffaf0" alt="education"/>
   <img src="https://img.shields.io/badge/-open%20to%20relocation-d0f0c0?style=flat-square&labelColor=fffaf0" alt="relocation"/>
+  <img src="https://komarev.com/ghpvc/?username=m3owbisi&style=flat-square&color=87ceeb&label=visitors" alt="visitor count"/>
 </p><br/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/IcVMnyfBJjP6JtPiSp/giphy.gif" width="90" alt="cute wave"/>
-</p>
 
 ### ‎ ⋆｟ about me ｠⋆
 - 🔭 building my personal portfolio — full-screen webp hero, scrollytelling, 11 sections
