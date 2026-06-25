@@ -111,5 +111,9 @@ Here are some ideas to get you started:
 </p><br/>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/QSp0r9YzaWaY8L4LRZ/giphy.gif" width="80" alt="cute anime bye"/>
+</p>
+
+<p align="center">
   thanks for stopping by ♡
 </p>
