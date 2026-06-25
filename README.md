@@ -13,16 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><div align="center">
+-->
 <div align="center">
   <img src="./assets/soft-space-banner.svg" width="100%" alt="hiral panchal — soft space banner" />
 </div>
 
 <h3 align="center">hi, i'm hiral ˚ʚ♡ɞ˚</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Trebuchet+MS&size=18&duration=3000&pause=900&color=8A7480&center=true&vCenter=true&width=520&lines=full-stack+engineer+%C2%B7+saas+%26+ai+integration;currently+job+hunting+%E2%99%A1;building+protein+bind+%C2%B7+next.js+%2B+typescript;say+hi%2C+i+don%27t+bite+(˵+◕‿◕+˵)" alt="typing"/>
-</p>
+<p align="center">full-stack engineer · saas &amp; ai integration · thane, india</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-currently%20job%20hunting-ffb7c5?style=flat-square&labelColor=fffaf0" alt="status"/>
@@ -34,11 +31,11 @@ Here are some ideas to get you started:
 
 ### ‎ ⋆｟ about me ｠⋆
 
-> 👤 full-stack engineer in the making, currently job hunting — i like building things end-to-end, from the backend logic nobody sees to the pixel that makes someone go "ooh."
-
-> 🧃 i run a tiny affiliate content brand called **glorie** on the side — pinterest, instagram, the whole thing.
-
-> ➕ also building a personal portfolio site with a full-screen animated hero, because apparently one project at a time is not a setting i have.
+- 🔭 building my personal portfolio — full-screen webp hero, scrollytelling, 11 sections
+- 🌱 deepening data engineering, devops &amp; cloud infra
+- 💌 actively looking for full-stack, data engineering, or devops/cloud roles
+- ☁️ side project: **glorie**, a small affiliate content brand across pinterest &amp; instagram
+- ♡ this readme's aesthetic is named after that side project's mood board — soft space
 
 <br/>
 
@@ -46,7 +43,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://linkedin.com/in/hiral-panchal-b89071294">
-    <img src="https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=fffaf0" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/linkedin-e6e6fa?style=flat-square&logo=linkedin&logoColor=5a4a52&labelColor=fffaf0" alt="linkedin"/>
   </a>
   <a href="mailto:hp0505157@gmail.com">
     <img src="https://img.shields.io/badge/email-ffb7c5?style=flat-square&logo=gmail&logoColor=5a4a52&labelColor=fffaf0" alt="email"/>
@@ -81,7 +78,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-postgresql-d0f0c0?style=flat-square&logo=postgresql&logoColor=5a4a52&labelColor=fffaf0" alt="postgresql"/>
   <img src="https://img.shields.io/badge/-mongodb-ffb7c5?style=flat-square&logo=mongodb&logoColor=5a4a52&labelColor=fffaf0" alt="mongodb"/>
   <img src="https://img.shields.io/badge/-pandas-e6e6fa?style=flat-square&logo=pandas&logoColor=5a4a52&labelColor=fffaf0" alt="pandas"/>
-  <img src="https://img.shields.io/badge/-power%20bi-87ceeb?style=flat-square&logo=powerbi&logoColor=white&labelColor=fffaf0" alt="power bi"/>
+  <img src="https://img.shields.io/badge/-power%20bi-87ceeb?style=flat-square&logo=powerbi&logoColor=5a4a52&labelColor=fffaf0" alt="power bi"/>
 </p>
 
 **devops &amp; infra**
@@ -89,7 +86,7 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://img.shields.io/badge/-docker-d0f0c0?style=flat-square&logo=docker&logoColor=5a4a52&labelColor=fffaf0" alt="docker"/>
   <img src="https://img.shields.io/badge/-jenkins-ffb7c5?style=flat-square&logo=jenkins&logoColor=5a4a52&labelColor=fffaf0" alt="jenkins"/>
-  <img src="https://img.shields.io/badge/-aws-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=fffaf0" alt="aws"/>
+  <img src="https://img.shields.io/badge/-aws-e6e6fa?style=flat-square&logo=amazonaws&logoColor=5a4a52&labelColor=fffaf0" alt="aws"/>
   <img src="https://img.shields.io/badge/-linux-87ceeb?style=flat-square&logo=linux&logoColor=5a4a52&labelColor=fffaf0" alt="linux"/>
   <img src="https://img.shields.io/badge/-vercel-d0f0c0?style=flat-square&logo=vercel&logoColor=5a4a52&labelColor=fffaf0" alt="vercel"/>
 </p>
@@ -103,66 +100,6 @@ Here are some ideas to get you started:
 | [protein bind](https://protein-bind-v7.vercel.app) | real-time collaborative research platform · next.js, typescript, ably |
 | [cybershield](https://youtu.be/356-4RFTUBk) | 4-agent ai cybersecurity platform · best cyber security project award |
 | ci/cd pipeline | jenkins + docker automated build-to-deploy pipeline |
-
-<br/>
-
-<div align="center">
-
-.°✩  ✧  ﾐ  ❀  ✩°.
-
-### welcome to my brain rent-free corner
-
-*(˵ ◕‿◕ ˵) ✧ a lil bit of everything, all the time*
-
-</div>
-
-<br/>
-
-<table align="center" border="0">
-<tr>
-<td width="50%" valign="top">
-
-**♡ sound &amp; vibe**
-listening to whatever genre fits the mood that hour — k-pop, lo-fi, bollywood, english, doesn't matter. building playlists is basically a hobby of its own at this point.
-
-**♡ glow &amp; getting ready**
-beauty makeovers, makeup looks, trying new hairstyles, henna/mehendi designs when there's an excuse for it. outfit recreation from lookbooks is a whole personality trait.
-
-**♡ words &amp; perspective**
-articles, blog posts, quotes, poems, novels — anything about femininity, life lessons, or just someone else's pov on the world. always taking notes mentally.
-
-</td>
-<td width="50%" valign="top">
-
-**♡ screen time, but make it cultured**
-japanese / korean / chinese movies, series, anime, drama, kpop, manga, manhwa. occasionally turns into fanart-inspired sketching. proud of my own culture right alongside all of it.
-
-**♡ move &amp; sweat**
-gym when i can, home workouts with zero equipment when i can't — cardio, mostly, whatever gets the heart rate up.
-
-**♡ create &amp; perform**
-used to dance and act a little growing up, still edit reels/trends for ig now. photography on the side. streaming + gaming both make the list — playing *and* watching.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-°ﾐ travel checklist: forever in progress ﾐ°
-
-✧˖° still ticking off bucket list things, some for me, some for others, some just out of curiosity °˖✧
-
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-currently%20listening-ffb7c5?style=flat-square&labelColor=fffaf0" alt="listening"/>
-  <img src="https://img.shields.io/badge/-currently%20reading-e6e6fa?style=flat-square&labelColor=fffaf0" alt="reading"/>
-  <img src="https://img.shields.io/badge/-currently%20watching-d0f0c0?style=flat-square&labelColor=fffaf0" alt="watching"/>
-  <img src="https://img.shields.io/badge/-currently%20editing-87ceeb?style=flat-square&labelColor=fffaf0" alt="editing"/>
-</p>
 
 <br/>
 
