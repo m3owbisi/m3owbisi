@@ -26,16 +26,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-open%20to%20relocation-d0f0c0?style=flat-square&labelColor=fffaf0" alt="relocation"/>
 </p><br/>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/IcVMnyfBJjP6JtPiSp/giphy.gif" width="90" alt="cute wave"/>
+</p>
+
 ### ‎ ⋆｟ about me ｠⋆
 - 🔭 building my personal portfolio — full-screen webp hero, scrollytelling, 11 sections
 - 🌱 deepening data engineering, devops &amp; cloud infra
 - 💌 actively looking for full-stack, data engineering, or devops/cloud roles
 - ☁️ side project: **glorie**, a small affiliate content brand across pinterest &amp; instagram
 - ♡ this readme's aesthetic is named after that side project's mood board — soft space<br/>
-
-<p align="left">
-  <img src="https://media.giphy.com/media/IcVMnyfBJjP6JtPiSp/giphy.gif" width="90" alt="cute wave"/>
-</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&pause=1000&color=FFB7C5&center=true&vCenter=true&width=435&lines=a+little+about+me;beyond+the+code;off+the+clock;when+im+not+coding" alt="Typing SVG" />
 
