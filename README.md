@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 - ☁️ side project: **glorie**, a small affiliate content brand across pinterest &amp; instagram
 - ♡ this readme's aesthetic is named after that side project's mood board — soft space<br/>
 
-<p align="left">
-  <img src="https://media.giphy.com/media/IcVMnyfBJjP6JtPiSp/giphy.gif" width="90" alt="cute wave"/>
-</p>
-
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&pause=1000&color=FFB7C5&center=true&vCenter=true&width=435&lines=a+little+about+me;beyond+the+code;off+the+clock;when+im+not+coding" alt="Typing SVG" />
+
+<p align="right">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="70" alt="cute anime sparkle"/>
+</p>
 
 - 🎧 curating playlists across genres &amp; languages — music's a constant
 - 💄 into makeup, henna, hairstyles &amp; recreating lookbook fits for fun
